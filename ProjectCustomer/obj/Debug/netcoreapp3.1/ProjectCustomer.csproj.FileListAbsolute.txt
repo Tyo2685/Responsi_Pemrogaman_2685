@@ -1,0 +1,13 @@
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\bin\Debug\netcoreapp3.1\ProjectCustomer.exe
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\bin\Debug\netcoreapp3.1\ProjectCustomer.deps.json
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\bin\Debug\netcoreapp3.1\ProjectCustomer.runtimeconfig.json
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\bin\Debug\netcoreapp3.1\ProjectCustomer.runtimeconfig.dev.json
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\bin\Debug\netcoreapp3.1\ProjectCustomer.dll
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\bin\Debug\netcoreapp3.1\ProjectCustomer.pdb
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\obj\Debug\netcoreapp3.1\ProjectCustomer.csprojAssemblyReference.cache
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\obj\Debug\netcoreapp3.1\ProjectCustomer.csproj.CoreCompileInputs.cache
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\obj\Debug\netcoreapp3.1\ProjectCustomer.AssemblyInfoInputs.cache
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\obj\Debug\netcoreapp3.1\ProjectCustomer.AssemblyInfo.cs
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\obj\Debug\netcoreapp3.1\ProjectCustomer.dll
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\obj\Debug\netcoreapp3.1\ProjectCustomer.pdb
+D:\Baru\Responsi Uas Pemrogaman\ProjectCustomer\obj\Debug\netcoreapp3.1\ProjectCustomer.genruntimeconfig.cache
